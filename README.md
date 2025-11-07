@@ -64,3 +64,8 @@ Calculated missing Total Spent values using:
 
 - Created interactive visuals showing total sales and purchasing trends.
 
+
+           Replicate
+    The repository includes both the raw dataset and the cleaned dataset for transparency and reproducibility.
+Feel free to experiment with the raw file to practice your own data cleaning workflow.
+
