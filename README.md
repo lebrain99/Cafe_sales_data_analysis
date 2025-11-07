@@ -3,7 +3,7 @@
 This project demonstrates my data cleaning, transformation, and exploratory analysis process using Microsoft Excel.
 The goal was to clean a messy dataset by handling missing values, removing duplicates, and preparing the data for meaningful analysis and visualization.
 
-STEPS
+                STEPS
 
 Cleaned and trimmed the entire dataset to remove unnecessary spaces that created duplicate entries.
 
@@ -45,7 +45,7 @@ Created Pivot Tables to summarize total sales by each item and identify the most
 
 Designed Visual Dashboards and charts to illustrate sales trends and insights clearly.
 
-** Tools Used
+         Tools Used
 Microsoft Excel
 
 Data Cleaning
