@@ -69,3 +69,6 @@ Calculated missing Total Spent values using:
     The repository includes both the raw dataset and the cleaned dataset for transparency and reproducibility.
 Feel free to experiment with the raw file to practice your own data cleaning workflow.
 
+
+  DATA ANALYSIS AND INSIGHT
+  
