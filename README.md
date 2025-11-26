@@ -36,7 +36,7 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 
 - I filtered rows where price = 1, reviewed errors, and used copy-and-replace to fill missing values accurately.
 
-When two items shared the same price, I used an Excel formula to randomly assign names to balance the data:
+- When two items shared the same price, I used an Excel formula to randomly assign names to balance the data:
 
 =IF(D8=3, IF(ISEVEN(ROW()), "Juice", "Cake"), B8)
 
@@ -50,7 +50,7 @@ When two items shared the same price, I used an Excel formula to randomly assign
 
 - Filled missing Price per Unit values using the IFS function to assign each price to its correct item.
 
-Calculated missing Total Spent values using:
+- Calculated missing Total Spent values using:
 
 =Quantity * Price
 
