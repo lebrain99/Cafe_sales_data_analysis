@@ -1,8 +1,9 @@
 
-# Table of Content data_cleaning_project  (Excel)
+# Table of Content 
 - [Project Overview](#Project-Overview)
-- [Tools Used[(#Tools-Used)
+- [Tools Used](#Tools-Used)
 - [Data Cleaning Steps](steps)
+- [Exploratory analysis](#Exploratory-analysis)
 
 
 
@@ -20,7 +21,8 @@ The goal was to clean a messy dataset by handling missing values, removing dupli
 
 - TABLEAU
 
-                STEPS
+ #               STEPS
+ - Tool used: Excel
 
 - Cleaned and trimmed the entire dataset to remove unnecessary spaces that created duplicate entries.
 
@@ -59,11 +61,11 @@ Calculated missing Total Spent values using:
 - Designed Visual Dashboards and charts to illustrate sales trends and insights clearly.
 
 
-
-           Replicate
-    The repository includes both the raw dataset and the cleaned dataset for transparency and reproducibility.
-Feel free to experiment with the raw file to practice your own data cleaning workflow.
-
+ # Exploratory analysis
+ Tool used: MYSQL
+ - I used SQl to find the highest item quantity sold
+ - I ranked the most profitable incoming by using windows function and cte to see which items brings in the highest profit
+ - 
 
   DATA ANALYSIS AND INSIGHT
   
