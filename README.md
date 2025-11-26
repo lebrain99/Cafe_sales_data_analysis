@@ -1,5 +1,10 @@
-# data_cleaning_project  (Excel)
 
+# Table of Content data_cleaning_project  (Excel)
+-[Project Overview](#Project Overview)
+
+
+
+#Project Overview
 This project demonstrates my data cleaning, transformation, and exploratory analysis process using Microsoft Excel.
 The goal was to clean a messy dataset by handling missing values, removing duplicates, and preparing the data for meaningful analysis and visualization.
 
