@@ -65,6 +65,20 @@ Tools used:
 - [**Power BI**](https://app.powerbi.com/view?r=eyJrIjoiZGJhYmZmYzQtMDM4OS00MmI0LWI1ZWYtMDM4OTE4YjBkNmI4IiwidCI6Ijk0MWJiZjVmLWYyYzAtNDg3NS1hMjRjLTY5MDc4NjVkMjUxYSIsImMiOjh9)
 
  # DATA ANALYSIS AND INSIGHT
+ - Product Performance. Salad is the top revenue-generating product, showing that customers are willing to pay a premium for it. Its order volume sitting above the median confirms it's both popular and profitable. Coffee leads in total quantities sold, meaning it is the most frequently purchased everyday item. This indicates high demand but likely lower margins compared to premium items like salad. Cookies record the lowest spend and quantity, suggesting limited customer interest or possibly insufficient promotion or visibility.
+
+- Sales Trends by Day. Thursday has the highest sales, making it the café’s strongest operational day. This could be linked to mid-week customer behavior, promotions, or workplace routines. Weekends (especially Sunday) show a noticeable drop in sales, signaling a potential opportunity to introduce weekend bundles, discounts, or promotions to boost traffic.
+
+- Payment Method Usage. Payments are almost evenly distributed across Credit Card, Cash, and Digital Wallet. Digital Wallet leads slightly, indicating a growing preference for fast, contactless transactions. The café can capitalize on this by promoting mobile wallet loyalty rewards.
+
+-  Monthly Sales Insights. Sales show consistent fluctuations across months, with noticeable dips in February and September.Peaks occur around June and October, possibly indicating seasonal trends or effective campaigns during those times. This pattern suggests the café could analyze seasonal demand and plan inventory and marketing pushes around expected highs and lows.
+
+-  Quantities Sold Breakdown. Coffee, cake, and juice consistently contribute strong unit sales. Smoothies, tea, and cookies fall on the lower end. The café may need to revisit:
+  -      Pricing strategy
+  -       Placement on the menu
+  -       Promotions or combos to strengthen demand.
+
+- Total Orders & Revenue: With 9,959 total orders and $88.94K in revenue, the café shows stable customer activity and healthy sales volume. The gap between total orders and revenue highlights which products generate high volume vs. high value, helping guide future product priorities.
 
  # Recommendations
 
