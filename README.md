@@ -2,7 +2,7 @@
 # Table of Content 
 - [Project Overview](#Project-Overview)
 - [Tools Used](#Tools-Used)
-- [Data Cleaning Steps](steps)
+- [Data Cleaning Steps](#DATA-CLEANING-AND-PREPARATION)
 - [Exploratory analysis](#Exploratory-analysis)
 
 
